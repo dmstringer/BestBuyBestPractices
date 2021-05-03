@@ -1,1 +1,1 @@
-"# BestBuyBestPractices" 
+# BestBuyBestPractices
